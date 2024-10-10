@@ -48,11 +48,11 @@ section {
 }
 
 .p-top {
-    padding-top: 53px;
+    padding-top: 20px;
 }
 
 .p-bottom {
-    padding-bottom: 53px;
+    padding-bottom: 20px;
 }
 
 .logo {
@@ -135,6 +135,7 @@ p {
     color: #ffffff;
     cursor: pointer;
     margin-left: 10px;
+    margin-top: 20px;
 }
 
 .end {
